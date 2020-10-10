@@ -1,0 +1,3 @@
+﻿  lab_2.cpp
+D:\PROGRAMIROVANIE\Git\bi-20i1-D.Tapcheev-PL\lab_2\lab_2.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_2.vcxproj -> D:\PROGRAMIROVANIE\Git\bi-20i1-D.Tapcheev-PL\lab_2\Debug\lab_2.exe

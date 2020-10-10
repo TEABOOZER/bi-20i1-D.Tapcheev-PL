@@ -1,0 +1,2 @@
+D:\PROGRAMIROVANIE\Git\bi-20i1-D.Tapcheev-PL\lab_2\Debug\lab_2.exe
+D:\PROGRAMIROVANIE\Git\bi-20i1-D.Tapcheev-PL\lab_2\Debug\lab_2.pdb
